@@ -1,0 +1,10 @@
+{
+  "products": {
+    "cart": "Add to Cart"
+  },
+  "sample": {
+    "can-display": "Can Display",
+    "can-not-find-value": "Nonexistent Key",
+    "can-not-display-parent": "The nested keys themselves"
+  }
+}

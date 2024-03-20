@@ -1,0 +1,10 @@
+{
+  "products": {
+    "cart": "加入购物车"
+  },
+  "sample": {
+    "can-display": "可以显示",
+    "can-not-find-value": "找不到对应的值",
+    "can-not-display-parent": "嵌套的值"
+  }
+}

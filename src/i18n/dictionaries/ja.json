@@ -1,0 +1,10 @@
+{
+  "products": {
+    "cart": "カートに追加"
+  },
+  "sample": {
+    "can-display": "表示できます",
+    "can-not-find-value": "存在しないキーはそのまま",
+    "can-not-display-parent": "存在しないキーはそのまま"
+  }
+}
