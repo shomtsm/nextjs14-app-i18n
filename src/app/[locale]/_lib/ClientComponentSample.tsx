@@ -1,7 +1,7 @@
 'use client'
 
 import { useCurrentLocale } from 'next-i18n-router/client'
-import i18nConfig from '@/i18nConfig'
+import i18nConfig from '@/i18n/config'
 import useLang from '@/hooks/useLang'
 
 function ClientComponentSample() {

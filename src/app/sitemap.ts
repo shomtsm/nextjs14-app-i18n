@@ -1,5 +1,5 @@
 import { MetadataRoute } from 'next'
-import i18nConfig from '@/i18nConfig'
+import i18nConfig from '@/i18n/config'
 
 const root = 'https://your-site.com'
 

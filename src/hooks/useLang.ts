@@ -1,5 +1,5 @@
 import { useCurrentLocale } from 'next-i18n-router/client'
-import i18nConfig, { type Langs } from '@/i18nConfig'
+import i18nConfig, { type Langs } from '@/i18n/config'
 import { useRouter, usePathname, useSearchParams } from 'next/navigation'
 
 export default function useLang() {
